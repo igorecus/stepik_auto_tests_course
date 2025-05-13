@@ -1,4 +1,1 @@
-# stepik_auto_tests_course
-stepik-homework
-
-https://stepik.org/course/575/syllabus
+Это репозиторий для хранения домашних заданий по курсу автоматизация и тестирование(https://stepik.org/course/575/)
